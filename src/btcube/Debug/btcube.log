@@ -1,0 +1,5 @@
+﻿  main.cpp
+\\icho23-home01\vol_home01\home\s2111858\Downloads\iml_physics\iml_physics\src\btcube\utils.h(369,27): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+\\icho23-home01\vol_home01\home\s2111858\Downloads\iml_physics\iml_physics\src\btcube\utils.h(393,25): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+\\icho23-home01\vol_home01\home\s2111858\Downloads\iml_physics\iml_physics\src\btcube\utils.h(396,25): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  btcube.vcxproj -> \\icho23-home01\vol_home01\home\s2111858\Downloads\iml_physics\iml_physics\src\btcube\Debug\btcube.exe
